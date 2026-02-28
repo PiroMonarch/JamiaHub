@@ -16,7 +16,7 @@ export default function MyListings() {
           {/* Listing 1 */}
           <div className="bg-white dark:bg-slate-800 rounded-xl border border-slate-100 dark:border-slate-700 overflow-hidden shadow-sm flex flex-col">
             <div className="relative h-40 w-full">
-              <img className="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDw5FMm80JOn6rQPQCt5uqrH9M4DMpp6b5QnCw8fgz9F8d49NcFKTMWrU_dFTbq6cFwTZCmGZxq9M19PhL2d9rniujHUqkUo3CgypI0qaBbT-a7b1qqsy3_-44ayhWHvJfheceavOBYIHeH2aEf9FNsc7brZ7-LP9VhQWgEyWZV_iJaENAhd55CJFwQnGzK5OaxuRhJJzdN-Vuqju4p79Oj9PJi9P_XR-T3PbvjmMoyxxvbnpXY3q0riNCGEHvPQB3-SwkqHvR9gDY" alt="My PG" />
+              <img className="w-full h-full object-cover" src="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=400&q=80" alt="My PG" />
               <div className="absolute top-2 right-2 bg-green-500 text-white text-[10px] font-bold px-2 py-1 rounded">ACTIVE</div>
             </div>
             <div className="p-4">

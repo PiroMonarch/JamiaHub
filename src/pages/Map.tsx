@@ -16,7 +16,7 @@ export default function Map() {
       distance: "200m",
       rating: "4.2",
       type: "Boys",
-      image: "https://lh3.googleusercontent.com/aida-public/AB6AXuAWLy8gguEy-kGxpiIrEL_oq0H7ecyKDCSxMY5Cp_fSaouSl-6pxlEHyCFXbxa9JX7zKdXD-aj9vl1T6samzYfVn7vLiuICfJo_Uoc5fp9oacoAGlj6h_lT4XyCENW-jSjI6CxF8-UF2vOtL-_fR3eU6wVoktGRCsRIQ4g9RiX36IcGVTbyS74FaWI39CdUCHMOUKOJCgACIH1qK3ivs17xE4SbKEYtJzvb0alEBLt73CqTdj5A0uibJv6WvptdG9XsqVtbIh9sy90",
+      image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=400&q=80",
       top: "50%",
       left: "50%",
       amenities: ["WiFi", "Power Backup"]
@@ -30,7 +30,7 @@ export default function Map() {
       distance: "500m",
       rating: "4.5",
       type: "Girls",
-      image: "https://lh3.googleusercontent.com/aida-public/AB6AXuAHFRsFH9zV_Ex62dyBhErXztosHdh3Fm-GEQCQea9J7zAxmOnOwkaiQh2ruyQtkuz0oZ_77sr99SBPq3y6U67Az9t7_N76P7cesX6EYd09v1A1R5guur-L6WufAS5PrqM0N95GkY9RwcxJDjDbsgAvN63oz8uHXZBvEWHgy-5Eb2Rc9sVzuQzA2MMlNY28lc8rEWbwdohxn5XX1MKrnRljFPRO_JTCcJaN10ftKaqHz9et4HuXGK58oSSULWiMH7KweZb6k54M3yI",
+      image: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=400&q=80",
       top: "32%",
       left: "22%",
       amenities: ["AC", "Mess"]
@@ -44,7 +44,7 @@ export default function Map() {
       distance: "800m",
       rating: "4.0",
       type: "Boys",
-      image: "https://lh3.googleusercontent.com/aida-public/AB6AXuDw5FMm80JOn6rQPQCt5uqrH9M4DMpp6b5QnCw8fgz9F8d49NcFKTMWrU_dFTbq6cFwTZCmGZxq9M19PhL2d9rniujHUqkUo3CgypI0qaBbT-a7b1qqsy3_-44ayhWHvJfheceavOBYIHeH2aEf9FNsc7brZ7-LP9VhQWgEyWZV_iJaENAhd55CJFwQnGzK5OaxuRhJJzdN-Vuqju4p79Oj9PJi9P_XR-T3PbvjmMoyxxvbnpXY3q0riNCGEHvPQB3-SwkqHvR9gDY",
+      image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
       top: "42%",
       left: "72%", // Adjusted right to left
       amenities: ["Gym", "WiFi"]
@@ -58,7 +58,7 @@ export default function Map() {
       distance: "1.2km",
       rating: "3.8",
       type: "Girls",
-      image: "https://lh3.googleusercontent.com/aida-public/AB6AXuDCXtY0gsFD1TtOGJH-kgctYroT_JgJ2oVP7prGJB9WT2xYgr8hi-mlhEJeufx06shUcrRn-WG1ZXeJKI3TJx4eatvZNFv3okaiifOLm6FxWpjajqxRx7vPrmpDfWoYGqxKqJaCjejSr6JMn6-l83dK_2CK8uOrAFiv-wrvfMuy6uGNWRLT1X97HllLGV1Ox_n8FF5euHqOaLP3N8TlL8EmXzRm8wX-aJC-uuqgl1R7MfjgvqelUdt7tQaNK1uQIEvtlTXUE2PKYvU",
+      image: "https://images.unsplash.com/photo-1514432324607-2e4c9ad629d9?w=400&q=80",
       top: "55%",
       left: "32%",
       amenities: ["Laundry", "Security"]
@@ -72,7 +72,7 @@ export default function Map() {
       distance: "2.5km",
       rating: "4.8",
       type: "Unisex",
-      image: "https://lh3.googleusercontent.com/aida-public/AB6AXuA9wAlsizmbyci8p6Ps-W30li7hFORDItFa-X5uC-amba7zG3jpW2Z4OtWyDqePcqk30LRDBag-pvLeEZzsgA9n1yYPar1dLyrvV5rK97l_wE3iCCuPAB8Ehce-tRBAdqIFEr_T3IpaFcrMTgruMeHIW_s4e09_hCzpzsDzglD286qk67LZSeORi_6kGZbt2fvaVdKd1gUNcmBOIc_JrLg8IPVphdK1BjgFDyAAyxHBVXJ-gyr3tLev77wbowhzWsgldvZDi0GjWOA",
+      image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80",
       top: "28%",
       left: "82%", // Adjusted right to left
       amenities: ["AC", "Gym", "Food"]
@@ -82,7 +82,7 @@ export default function Map() {
   return (
     <div className="bg-background-light dark:bg-background-dark font-display antialiased overflow-hidden h-screen w-full flex flex-col text-text-main dark:text-white">
       <div className="relative flex-1 w-full h-full overflow-hidden">
-        <div className="absolute inset-0 z-0 bg-cover bg-center" data-alt="Map of Jamia Millia Islamia area" data-location="New Delhi" style={{backgroundImage: 'url("https://lh3.googleusercontent.com/aida-public/AB6AXuA6gmcPWYp31LoAdZW7eQUHrZTGAP0fB8fW-C_9kmIxeZsh_XtNRA5euwMaqJWT10x0tOjEaaLywp1_TPyLFVIlRHgVk0rXa3AoEKeqyx2okLKdIot699xmAhs_ZKME3OaHn8xVyrL2d-FmBbd1lxRiT81-d6Pws_vR0Yy-dWUM4ZUvMHjdXXDHNReJW0pUCOuN3JXw1rtApPwXZWd1XelY4IoTWmM63R1BQcdqDEi68tZav7NJ_EcaLJYdL5RKY1BjRBPcrlUCxrI")'}}>
+        <div className="absolute inset-0 z-0 bg-cover bg-center" data-alt="Map of Jamia Millia Islamia area" data-location="New Delhi" style={{backgroundImage: 'url("https://images.unsplash.com/photo-1524661135-423995f22d0b?w=800&q=80")'}}>
           <div className="absolute inset-0 bg-gradient-to-b from-black/10 via-transparent to-black/20 pointer-events-none"></div>
           
           {/* Map Markers */}

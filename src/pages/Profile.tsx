@@ -15,7 +15,7 @@ export default function Profile() {
         <div className="px-5 pt-8 pb-6 flex flex-col items-center">
           <div className="relative mb-5 group cursor-pointer">
             <div className="size-28 rounded-full bg-gray-100 dark:bg-gray-800 p-1 ring-1 ring-gray-200 dark:ring-gray-700">
-              <img alt="User profile" className="w-full h-full rounded-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDDDY9qmQbg6XCsVujfbNFWgTgb34lhQUzVnOpxTZseCTD-OvxmvJ6ioy-j3qSYkTsySdBdBsuMckHcv1hQ400lg-Ytt7YkNrPibArq68xQVQ1xlFMnpdChVc_pylnrYMQ2b0jbNHqOFYigOQfpediCvtQJKzz8z0aKCcZcqR852kNQBWMRt706x15sfHtR3a4MoUnZ0Dn0bZnehzhfQFh49LCksGvMGoh87yESRTIUlvuJC4nrjuwPWNqKTLJVHaJN6YcMkodFu_w"/>
+              <img alt="User profile" className="w-full h-full rounded-full object-cover" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80"/>
             </div>
             <div className="absolute bottom-1 right-1 bg-primary text-white p-1.5 rounded-full ring-4 ring-background-light dark:ring-background-dark shadow-sm transition-transform group-hover:scale-105">
               <span className="material-symbols-outlined text-[18px] block">edit</span>
